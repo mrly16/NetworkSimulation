@@ -15,3 +15,15 @@ and status quality gap, and can be called to generate the graphs according to re
 **ultimate_simulation.py**: For the 1210 * 100 times simulation.
 
 **utilities.py**: Mainly contains function to visualize the results or intermediate result.
+
+### Attributes for each node during simulation:
+```
+{'average similarity': 0.30871845391655817,
+   'choice history': [1, 8, 1, 1, 3, 2, 4, 9, 4, 3, 9, 7],
+   'current category': 7,
+   'perceived quality': -4086.7179690911626,
+   'rank': 17,
+   'round': 11,
+   'status change': -3.2875863237302738e-07,
+   'status score': 0.20396508658289464}
+```
