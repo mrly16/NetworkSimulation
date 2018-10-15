@@ -38,5 +38,7 @@ and status quality gap, and can be called to generate the graphs according to re
 
 ### Reference:
 [1]Manzo, G., & Baldassarri, D. (2015). Heuristics, interactions, and status hierarchies An agent-based model of deference exchange. Sociological Methods & Research, 44(2), 329-387
+
 [2]Lynn, F. B., Podolny, J. M., & Tao, L. (2009). A sociological (de) construction of the relationship between status and quality. American Journal of Sociology, 115(3), 755-804
+
 [3]Snijders et. al. (2009) Introduction to stochastic actor-based models for network dynamics
